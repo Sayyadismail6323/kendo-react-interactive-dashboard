@@ -53,7 +53,7 @@ const MostPopularJob = props => {
   return (
     <div>
       <div className="k-mb-4">
-        Your most popular job is "Full-Stack Developer"
+        Your  most popular jobs in  "Full-Stack Developer"
       </div>
 
       <Chart style={{ minHeight: "20rem" }}>
